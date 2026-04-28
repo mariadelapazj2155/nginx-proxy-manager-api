@@ -1,0 +1,39 @@
+{
+  "name": "@wleci/nginx-proxy-manager-api",
+  "version": "1.0.0",
+  "description": "Complete JavaScript/Node.js client library for Nginx Proxy Manager Plus API",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "node test/index.js",
+    "test:full": "node test/full-test.js"
+  },
+  "keywords": [
+    "nginx",
+    "proxy",
+    "manager",
+    "api",
+    "client",
+    "npmplus",
+    "reverse-proxy",
+    "ssl",
+    "certificates",
+    "letsencrypt"
+  ],
+  "author": "wleci <contact@wleci.pl>",
+  "homepage": "https://wleci.pl",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wleci/nginx-proxy-manager-api"
+  },
+  "bugs": {
+    "url": "https://github.com/wleci/nginx-proxy-manager-api/issues"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.15.2"
+  },
+  "engines": {
+    "node": ">=16.0.0"
+  }
+}
